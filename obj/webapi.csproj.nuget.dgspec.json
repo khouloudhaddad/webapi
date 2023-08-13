@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\projects\\.net\\webapi\\webapi.csproj": {}
+    "C:\\Users\\I-Repair Shop\\Documents\\GitHub\\webapi\\webapi.csproj": {}
   },
   "projects": {
-    "E:\\projects\\.net\\webapi\\webapi.csproj": {
+    "C:\\Users\\I-Repair Shop\\Documents\\GitHub\\webapi\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projects\\.net\\webapi\\webapi.csproj",
+        "projectUniqueName": "C:\\Users\\I-Repair Shop\\Documents\\GitHub\\webapi\\webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "E:\\projects\\.net\\webapi\\webapi.csproj",
+        "projectPath": "C:\\Users\\I-Repair Shop\\Documents\\GitHub\\webapi\\webapi.csproj",
         "packagesPath": "C:\\Users\\I-Repair Shop\\.nuget\\packages\\",
-        "outputPath": "E:\\projects\\.net\\webapi\\obj\\",
+        "outputPath": "C:\\Users\\I-Repair Shop\\Documents\\GitHub\\webapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\I-Repair Shop\\AppData\\Roaming\\NuGet\\NuGet.Config"
